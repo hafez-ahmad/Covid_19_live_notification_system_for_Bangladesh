@@ -5,8 +5,8 @@ how to run it ?
 follow steps
 1. download python 3
 2. install packages using pip install ...
-   a.bs4
-   b.plyer
+   a.    bs4
+   b.   plyer
    
  3. then open main.py with any code editor /IDLE and run it. 
  
