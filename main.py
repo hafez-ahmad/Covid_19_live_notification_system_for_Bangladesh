@@ -6,7 +6,9 @@ import plyer
 import time
 import datetime
 import threading
+from datetime import date
 
+today = date.today()
 
 
 
@@ -70,6 +72,10 @@ mainLabel = tk.Label(root, text=" Total Deaths: "+ get_death() , font=f, bg='whi
 mainLabel.pack()
 
 mainLabel = tk.Label(root, text='Data source: https://www.iedcr.gov.bd/ ' , font=f, bg='white')
+mainLabel.pack()
+
+
+mainLabel = tk.Label(root, text=today, font=f, bg='white')
 mainLabel.pack()
 
 reBtn = tk.Button(root, text="Refresh Me", font=f, relief='solid', command=refresh)
