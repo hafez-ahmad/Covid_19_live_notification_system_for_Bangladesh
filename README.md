@@ -17,4 +17,9 @@ follow 3 steps
  #Stay alert
  #Stay safe
  
+ additionally , you can convert it into windows executable file by using python pyinstaller
+ type in the CMD 
+ 
+ " pyinstaller main.py" 
+ 
   
