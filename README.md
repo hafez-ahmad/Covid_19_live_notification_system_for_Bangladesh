@@ -1,16 +1,17 @@
 # Covid_19_live_notification_system_for_Bangladesh
+
 This is notification system and will automatically notify you every 10 seconds.
 
+How to run it ?
 
-how to run it ?
-follow 3 steps
-1. download python 3 and install in a proper way
+Just follow 3 steps
+1. Download python 3 and install in a proper way
 
-2. install packages using pip install ...
-   a.    bs4
+2. Install packages using pip install ...
+   a.   bs4
    b.   plyer
    
- 3. then open main.py with any code editor /IDLE and run it. 
+3. Then open main.py with any code editor /IDLE and run it. 
  
  Thank you
  Hafez Ahmad
